@@ -1,13 +1,13 @@
 ### Hi there 🖖
 
-Hello, I'm Luis Felipe Veloso, Teacher, Developer and Data Engineer
+Hello, I'm Luis Felipe Veloso, a Teacher, a Developer and a Data Engineer
 
-- 💻 I’m currently working on AmbevTech as a Data Engineer
+- 💻 I’ve worked as a Data Engineer at AmbevTech.
 - ☁️ I've always worked with IT, most of the time with infrastructure and virtualization.
-- 👨🏼‍🎓 I'm in the process of a career transition, so any help with matters related to data engineering and development, will be greatly appreciated.
-- 📚 I’m currently learning about Python Frameworks and Product life cycle
-- ❤️ I love talking about automation, games, investments and financial market
-- 🐶 My dog ​​called "Stella", as a funny reminder of Stella Artois beer 🍺
+- 👨🏼‍🎓 I'm in a career transition process, so any help with subjects, related to data engineering and development, will be greatly appreciated.
+- 📚 I’ve currently learned about Python Frameworks and Product life cycle.
+- ❤️ I love talking about automation, games, investments and financial market.
+- 🐶 My dog`s ​​name is "Stella", because it reminds me Stella Artois beer 🍺
 
 ### ⚡️ Stack
 - **Data Engineering:** Databricks, Data Factory, Synapse, Spark
