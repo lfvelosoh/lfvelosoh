@@ -1,6 +1,6 @@
 ### Hi there 🖖
 
-Hello, i'm Luis Felipe Veloso, Teacher, Developer and Data Engineer
+Hello, I'm Luis Felipe Veloso, Teacher, Developer and Data Engineer
 
 - 💻 I’m currently working on AmbevTech as a Data Engineer
 - ☁️ I've always worked with IT, most of the time with infrastructure and virtualization.
