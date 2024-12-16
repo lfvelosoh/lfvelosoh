@@ -2,7 +2,7 @@
 
 Hi, I'm Luis Felipe Veloso, Professor and Data Governance Manager
 
-- 💻 I worked as a Data Governance Manager at AmbevTech.
+- 💻 I work as a Data Governance Manager at AmbevTech.
 - ☁️ I've always worked in IT, mainly with infrastructure and virtualization. I've also worked as a developer and data engineer.
 - 📚 I currently code as a hobby
 - ❤️ I love talking about automation, games, investments and the financial market.
